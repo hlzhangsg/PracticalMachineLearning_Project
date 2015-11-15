@@ -4,4 +4,6 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 
 Please check Report.html for the HTML report. 
 
+PDF format is also available for quick view. 
+
 @ Honglin Zhang 2015
