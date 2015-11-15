@@ -3,6 +3,7 @@ title: Practical Machine Learning Project - Quantified Self Movement Data Analys
   Report
 author: "by Honglin Zhang"
 output:
+  pdf_document: default
   html_document:
     fig_height: 9
     fig_width: 9
